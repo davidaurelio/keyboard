@@ -1,2 +1,1 @@
-# keyboard
-Keyboard Configurations / Firmware
+# Keyboard Configurations / Firmware
